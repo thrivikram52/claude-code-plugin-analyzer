@@ -5,7 +5,7 @@
   },
   "plugins": [
     {
-      "name": "claude-code-plugin-analyzer",
+      "name": "plugin-analyzer",
       "source": "./",
       "description": "Analyze, score, and compare installed Claude Code plugins — decompose into capabilities, determine per-form winners, and track context budget",
       "version": "0.1.0",

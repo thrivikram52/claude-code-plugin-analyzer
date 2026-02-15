@@ -1,4 +1,4 @@
-# claude-code-plugin-analyzer
+# plugin-analyzer
 
 Analyze, score, and compare installed Claude Code plugins. Decompose plugins into capabilities, determine per-form winners, track context budget, and auto-generate override rules.
 
@@ -57,14 +57,14 @@ registry/
 ## Installation
 
 ```bash
-claude plugin add /path/to/claude-code-plugin-analyzer
+claude plugin add /path/to/plugin-analyzer
 ```
 
 ## Quick Start
 
 ```bash
 # 1. Install the plugin
-claude plugin add /path/to/claude-code-plugin-analyzer
+claude plugin add /path/to/plugin-analyzer
 
 # 2. Restart Claude Code
 

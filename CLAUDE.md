@@ -1,4 +1,4 @@
-# claude-code-plugin-analyzer
+# plugin-analyzer
 
 This plugin analyzes installed Claude Code plugins, scores their capabilities, and maintains a registry of per-form winners.
 

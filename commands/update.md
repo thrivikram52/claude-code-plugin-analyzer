@@ -21,7 +21,7 @@ Compare currently installed plugins against the registry, analyze new plugins, r
 **Discover** all installed plugins (same as init step 1):
 - Glob `~/.claude/plugins/cache/**/.claude-plugin/plugin.json`
 - Build list of `{ name, source, path }`
-- Skip self (`claude-code-plugin-analyzer`)
+- Skip self (`plugin-analyzer`)
 
 **Read** `${CLAUDE_PLUGIN_ROOT}/registry/plugins.json` for currently tracked plugins.
 

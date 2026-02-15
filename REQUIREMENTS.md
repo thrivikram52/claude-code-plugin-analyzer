@@ -1,4 +1,4 @@
-# Requirements — claude-code-plugin-analyzer
+# Requirements — plugin-analyzer
 
 ## Problem Statement
 

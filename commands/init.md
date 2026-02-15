@@ -29,7 +29,7 @@ For each found `plugin.json`:
 - The plugin root is the parent directory of `.claude-plugin/`
 - Read the `name` field from `plugin.json` to identify the plugin
 - Extract the source name (the directory directly under `plugins/cache/`)
-- **Skip** any plugin named `claude-code-plugin-analyzer` (self-exclusion)
+- **Skip** any plugin named `plugin-analyzer` (self-exclusion)
 - **Skip** directories without `.claude-plugin/plugin.json` (not valid plugins)
 
 Build a list of `{ name, source, path }` for all valid plugins.
