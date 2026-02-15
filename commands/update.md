@@ -1,5 +1,4 @@
 ---
-name: update
 description: Detect newly installed or removed plugins, analyze only new ones, clean up removed ones, and recalculate winners
 allowed-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
 ---

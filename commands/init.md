@@ -1,5 +1,4 @@
 ---
-name: init
 description: Scan ALL installed Claude Code plugins, analyze every capability, build (or rebuild) the entire registry from scratch
 allowed-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
 ---

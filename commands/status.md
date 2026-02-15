@@ -1,5 +1,4 @@
 ---
-name: status
 description: Display the current status of the plugin registry — all tracked plugins, per-form winners, and context budget
 allowed-tools: ["Read", "Glob"]
 ---
