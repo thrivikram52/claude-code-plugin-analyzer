@@ -1,0 +1,9 @@
+{
+  "name": "claude-code-plugin-analyzer",
+  "version": "0.1.0",
+  "description": "Analyze, score, and compare installed Claude Code plugins — decompose into capabilities, determine per-form winners, and track context budget",
+  "author": {
+    "name": "Thrivikram"
+  },
+  "keywords": ["analyzer", "plugins", "capabilities", "scoring", "comparison"]
+}
