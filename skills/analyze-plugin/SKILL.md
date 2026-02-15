@@ -1,5 +1,4 @@
 ---
-name: analyze-plugin
 description: This skill should be used when the user asks to "analyze a plugin", "score a plugin", "evaluate a plugin", "compare plugins", "rate a plugin", "check plugin quality", or wants to understand a Claude Code plugin's capabilities, context cost, and quality score. Provides the scoring algorithm and analysis methodology for the plugin-analyzer registry.
 ---
 
